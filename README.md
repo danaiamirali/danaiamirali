@@ -1,8 +1,8 @@
 Currently working on:
-1. Recreating GitHub Copilot
-2. Training NER models for finance use cases
+1. Starting a startup
+2. Real-time website analytics engine
 
 Learning:
-1. CUDA
-2. Operating Systems
-3. What it takes to start a startup
+1. Distrbuted systems
+2. Data engineering
+3. Scary IRS stuff
